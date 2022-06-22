@@ -21,4 +21,4 @@ tickerDf = tickerData.history(period='1d', start='2010-5-31', end='2022-6-20')
 
 st.line_chart(tickerDf.Close)
 st.line_chart(tickerDf.Volume)
-st. run streamlit1.py
+#st. run streamlit1.py
